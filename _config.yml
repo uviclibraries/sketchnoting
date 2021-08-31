@@ -1,0 +1,42 @@
+title: WORKSHOP NAME GOES HERE
+remote_theme: pmarsceill/just-the-docs
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_repository: "https://github.com/uviclibraries/WORKSHOP-DIR-HERE" # the github URL for your repo
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_branch: "master" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+# license information for workshop content - test
+license_name: "Creative Commons Attribution 4.0 International License"
+license_url: "http://creativecommons.org/licenses/by/4.0/"
+license_image_url: "https://i.creativecommons.org/l/by/4.0/88x31.png"
+
+aux_links:
+  "UVic Libraries Digital Scholarship Commons":
+    - "//uvic.ca/library/dsc"
+
+aux_links_new_tab: true
+
+# Footer Information
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "<img src=\"https://i.creativecommons.org/l/by/4.0/88x31.png\" style=\"float:right;\">
+Copyright &copy; 2021 <a href=\"https://uvic.ca/library/dsc/\">UVic Libraries Digital Scholarship Commons</a> - <a href=\"mailto:dscommons@uvic.ca\">dscommons@uvic.ca</a>
+<br>Distributed by an <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License.</a>"
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+# Google Analytics Tracking (optional)
+# e.g, UA-1234567-89
+ga_tracking: G-J1P4V8MFWB
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+
+plugins:
+  - jekyll-seo-tag
