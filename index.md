@@ -3,7 +3,8 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="WORKSHOP-LOGO-HERE.png" alt="image description" style="float:right;width:180px;"> 
+
+<img src="images/logo.png" alt="sketchnotes" style="float:right;width:180px;"> 
 
 # Introduction to Sketchnoting: Doodle Your Way to Better Grades
 
