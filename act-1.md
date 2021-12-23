@@ -11,7 +11,7 @@ parent: Workshop Activities
 
 In this exercise, you will work on developing the basic skills, techniques, and tools to help you create more memorable Sketchnotes. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 
-<img src="images/act-1/shapes" alt="shapes" style="float:right;width:180px;">
+<img src="images/act-1/shapes.png" alt="shapes" style="float:right;width:180px;">
 
 1.  Practice drawing 5 Basic elements:
     -   On a clean sheet of paper draw the 5 basic elements across the top two or three times. Speed is more important than beauty when sketchnoting!
