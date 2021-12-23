@@ -1,8 +1,12 @@
 ---
 layout: default
-title: 1-Qlone Quick Tips
+title: 1-Skills-Building
 nav_order: 2
 parent: Workshop Activities
 ---
 
-[NEXT STEP: The Basics](act-2.html){: .btn .btn-blue }
+# Skills-Building Activity
+
+asdf
+
+[NEXT STEP: Sketchnote Activity](act-2.html){: .btn .btn-blue }
