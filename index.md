@@ -7,9 +7,9 @@ nav_order: 1
 
 # Introduction to Sketchnoting: Doodle Your Way to Better Grades
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
+- Pre-workshop activities: 15 min 
+- Introductory presentation: 10 min
+- Hands-on activities: 50 min
 
 ## Why Sketchnotes? 
 
