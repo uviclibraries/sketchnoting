@@ -5,7 +5,7 @@ nav_order: 3
 parent: Workshop Activities
 ---
 
-<img src="images/act-1/logo.png" alt="logo" style="float:right;width:240px;">
+<img src="images/act-1/logo.png" alt="logo" style="float:right;width:360px;margin-left:10px;">
 
 # Sketchnote Activity
 
