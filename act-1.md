@@ -34,7 +34,7 @@ In this exercise, you will work on developing the basic skills, techniques, and 
     -   On a clean sheet of paper draw each of the following 5 times: Man standing, Woman standing, A crowd of people.
     -   Again, Google image search is a great place to look for inspiration when drawing your stick figures, especially if you are depicting them doing something active.
 
-    <img src="images/act-1/drawings-title.png" alt="titles" style="float:right;width:300px;">
+    <img src="images/act-1/drawings-title.png" alt="titles" style="float:right;width:360px;margin-left:10px;">
 
 3.  Practice drawing type & text. The titles on the right are for inspiration.
     -   Draw “Library” or some other word using Block letters.
@@ -49,7 +49,7 @@ In this exercise, you will work on developing the basic skills, techniques, and 
 
     <img src="images/act-1/library3.png" alt="library 3" style="width:240px;">
     
-    <img src="images/act-1/visual-elements-1.png" alt="drawings containers" style="float:right;width:300px;">
+    <img src="images/act-1/visual-elements-1.png" alt="drawings containers" style="float:right;width:360px;margin-left:10px;">
 
 4.  Drawing some (not all) visual elements including connectors: Draw two different types of connecting lines (below), and two frames (on the right). Repeat several times. Remember that speed is more important than beauty!
 
@@ -60,5 +60,7 @@ In this exercise, you will work on developing the basic skills, techniques, and 
 5.  Drawing metaphors:
     -   Draw a metaphor for an idea. Practice three times.
     -   Draw a metaphor for balance. Practice three times.
+    
+    <img src="images/act-1/drawings6.png" alt="drawings" style="float:right;width:240px;">
 
 [NEXT STEP: Sketchnote Activity](act-2.html){: .btn .btn-blue }
