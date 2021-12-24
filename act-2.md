@@ -13,7 +13,7 @@ In this exercise, you will work through creating a sketchnote based on a short j
 
 <img src="images/act-2/tips.png" alt="10 tips" style="width:720px;">
 
-<img src="images/act-2/highlighted-text.png" alt="highlighted text" style="float:right;width:240px;margin-left:10px;">
+<img src="images/act-2/highlighted-text.png" alt="highlighted text" style="float:right;width:300px;margin-left:10px;">
 <img src="images/act-2/pens.png" alt="pens" style="float:right;width:180px;margin-left:10px;">
 
 1.  Gather your tools: Notebook (or several sheets of paper), a pen (or two of different colours), and a highlighter.
