@@ -55,12 +55,10 @@ In this exercise, you will work on developing the basic skills, techniques, and 
 
     <img src="images/act-1/visual-elements-2.png" alt="arrow drawings" style="width:240px;">
 
-    <img src="images/act-1/drawings6.png" alt="drawings" style="float:right;width:240px;">
-
 5.  Drawing metaphors:
     -   Draw a metaphor for an idea. Practice three times.
     -   Draw a metaphor for balance. Practice three times.
     
-    <img src="images/act-1/drawings6.png" alt="drawings" style="float:right;width:240px;">
+    <img src="images/act-1/drawings6.png" alt="drawings" style="width:240px;">
 
 [NEXT STEP: Sketchnote Activity](act-2.html){: .btn .btn-blue }
