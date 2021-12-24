@@ -21,7 +21,7 @@ In this exercise, you will work on developing the basic skills, techniques, and 
     -   Using those basic shapes draw of each of the following items 5 times (for a total of 35 drawings): House, Laptops, Coffee cup, Flower, Book. Don’t worry about the detail, just draw quickly, over and over! :-)
     -   Once you realize how all the objects around you are made from these 5 elements, it becomes much easier to draw all sorts of things.
     
-    <img src="images/act-1/drawings2.png" alt="sample drawings" style="float:right;width:360px;">
+    <img src="images/act-1/drawings2.png" alt="sample drawings" style="float:right;width:360px;margin-bottom:10px;">
     
     -   Note: Google image search is a great place to look for inspiration when you’re drawing something new. For example, Google, “brain drawing”, and then click on the images tab.
     
@@ -33,10 +33,10 @@ In this exercise, you will work on developing the basic skills, techniques, and 
 2.  Practice drawing people (stick people).
     -   On a clean sheet of paper draw each of the following 5 times: Man standing, Woman standing, A crowd of people.
     -   Again, Google image search is a great place to look for inspiration when drawing your stick figures, especially if you are depicting them doing something active.
+
+    <img src="images/act-1/drawings-title.png" alt="titles" style="float:right;width:300px;">
+
 3.  Practice drawing type & text. The titles on the right are for inspiration.
-    
-    <img src="images/act-1/drawings-title.png" alt="titles" style="float:right;width:360px;">
-    
     -   Draw “Library” or some other word using Block letters.
     
     <img src="images/act-1/library1.png" alt="library 1" style="width:240px;">
@@ -49,7 +49,7 @@ In this exercise, you will work on developing the basic skills, techniques, and 
 
     <img src="images/act-1/library3.png" alt="library 3" style="width:240px;">
     
-    <img src="images/act-1/visual-elements-1.png" alt="drawings containers" style="float:right;width:360px;">
+    <img src="images/act-1/visual-elements-1.png" alt="drawings containers" style="float:right;width:300px;">
 
 4.  Drawing some (not all) visual elements including connectors: Draw two different types of connecting lines (below), and two frames (on the right). Repeat several times. Remember that speed is more important than beauty!
 
