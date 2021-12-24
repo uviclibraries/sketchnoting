@@ -5,7 +5,7 @@ nav_order: 2
 parent: Workshop Activities
 ---
 
-<img src="images/act-1/logo.png" alt="logo" style="float:right;width:500px;">
+<img src="images/act-1/logo.png" alt="logo" style="float:right;width:360px;">
 
 # Skills-Building Activity
 
