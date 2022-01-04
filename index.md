@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 ---
 
-<img src="images/logo.png" alt="sketchnotes" style="float:right;width:280px;"> 
+<img src="images/logo.png" alt="sketchnotes" style="float:right;width:280px;margin-left:20px;margin-bottom:20px;"> 
 
 # Introduction to Sketchnoting: Doodle Your Way to Better Grades
 
