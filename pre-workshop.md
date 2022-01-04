@@ -4,7 +4,7 @@ title: Pre-Workshop Activities
 nav_order: 2
 ---
 ## Pre-Workshop Videos & Activities
-This workshop is primarily hands-on practice with Sketchnotes in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
+This workshop is primarily hands-on practice with Sketchnoting in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
 -   [The Basics of Visual Notetaking](https://www.youtube.com/watch?v=gY9KdRfNN9w){:target="_blank"} (3 min)
     <iframe width="560" height="315" src="https://www.youtube.com/embed/gY9KdRfNN9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
