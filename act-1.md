@@ -11,17 +11,17 @@ parent: Workshop Activities
 
 In this exercise, you will work on developing the basic skills, techniques, and tools to help you create more memorable Sketchnotes. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 
-<img src="images/act-1/shapes.png" alt="shapes" style="float:right;width:360px;">
+<img src="images/act-1/shapes.png" alt="shapes" style="float:right;width:360px;margin-left:10px;">
 
 1.  Practice drawing 5 Basic elements:
     -   On a clean sheet of paper draw the 5 basic elements across the top two or three times. Speed is more important than beauty when sketchnoting!
     
-    <img src="images/act-1/drawings1.png" alt="sample drawings" style="float:right;width:360px;">
+    <img src="images/act-1/drawings1.png" alt="sample drawings" style="float:right;width:360px;margin-left:10px;">
     
     -   Using those basic shapes draw of each of the following items 5 times (for a total of 35 drawings): House, Laptops, Coffee cup, Flower, Book. Don’t worry about the detail, just draw quickly, over and over! :-)
     -   Once you realize how all the objects around you are made from these 5 elements, it becomes much easier to draw all sorts of things.
     
-    <img src="images/act-1/drawings2.png" alt="sample drawings" style="float:right;width:360px;margin-bottom:10px;">
+    <img src="images/act-1/drawings2.png" alt="sample drawings" style="float:right;width:360px;margin-left:10px;margin-bottom:10px;">
     
     -   Note: Google image search is a great place to look for inspiration when you’re drawing something new. For example, Google, “brain drawing”, and then click on the images tab.
     
