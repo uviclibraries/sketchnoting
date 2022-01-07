@@ -17,7 +17,7 @@ In this exercise, you will work through creating a sketchnote based on a short j
 <img src="images/act-2/pens.png" alt="pens" style="float:right;width:180px;margin-left:10px;">
 
 1.  Gather your tools: Notebook (or several sheets of paper), a pen (or two of different colours), and a highlighter.
-2.  Skim through the provided [journal article](https://goo.gl/dCJQw1){:target="_blank"} and then go back and read through it, highlighting key concepts and important information. If you have your own article you’d like to sketchnote, please do the same with your own.
+2.  Skim through the provided [journal article](journal-article.html){:target="_blank"} and then go back and read through it, highlighting key concepts and important information. If you have your own article you’d like to sketchnote, please do the same with your own.
 3.  Research the author (or presenter). In the case of the provided article, Rachel S. Smith is the author. Find a picture of her to use for the title block of your sketchnote. I found her picture by doing a Google image search of: “Rachel S. Smith TED talk.”
 
     <img src="images/act-2/ted-doodled-GIGANTAMAX.png" alt="big doodles" style="float:right;width:400px;">
