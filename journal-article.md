@@ -18,5 +18,3 @@ Visual note-taking blends these two approaches. By using a combination of words 
 <mark style="background-color:orange;"><b>Note:</b> Highlighted text is a key point!</mark>
 
 Original article source: [https://qz.com/676557/the-scientific-case-for-doodling-while-taking-notes/](https://qz.com/676557/the-scientific-case-for-doodling-while-taking-notes/){:target="_blank"}
-
-button
