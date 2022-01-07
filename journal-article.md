@@ -4,7 +4,7 @@ title: Journal Article
 nav_exclude: true
 ---
 
-# The Scientific Case For Doodling While Taking Notes
+# **The Scientific Case For Doodling While Taking Notes**
 ## By Rachel S. Smith
 
 Two researchers at Princeton University and the University of California, Los Angeles have found that <mark style="background-color:orange;">writing notes longhand is more effective for understanding and retention than typing notes on a computer.</mark> That’s true even though students who take notes on their computers tend to get a lot more down on the page than those who make handwritten notes. Students who took notes longhand did better when tested on conceptual understanding and recall of what they had learned, even when everyone was allowed to study from their notes before being tested.
