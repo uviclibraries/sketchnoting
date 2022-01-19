@@ -6,7 +6,7 @@ nav_order: 10
 # Additional Resources & Acknowledgements
 
 ## Sketchnoting Resources
-- **COMING SOON**
+- [The Sketchnote Handbook](https://learning-oreilly-com.ezproxy.library.uvic.ca/library/view/the-sketchnote-handbook/9780133088137/chapter-01.html) by Mike Rohde
 
 ## Acknowledgements
 
