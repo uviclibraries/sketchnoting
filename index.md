@@ -14,7 +14,7 @@ nav_order: 1
 
 ## Why Sketchnotes? 
 
-“Sketchnotes are rich visual notes created from a mix of handwriting, drawings, hand-drawn typography, shapes, and visual elements like arrows, boxes, and lines” ([Mike Rohde, The Sketchnote Handbook](https://bit.ly/38zGkx0){:target="_blank"}).  Emergent research seems to indicate that summary note-taking, combined with relevant drawings combine to be one of the most effective ways to remember new information and create links to other related concepts and ideas. Sketchnotes can also be an effective tool to communicate complex ideas succinctly and clearly (see below). This workshop will briefly review the benefits of Sketchnoting, before working through basic Sketchnoting techniques to create a personalized Sketchnote on a provided topic or any topic chosen by a participant.
+“Sketchnotes are rich visual notes created from a mix of handwriting, drawings, hand-drawn typography, shapes, and visual elements like arrows, boxes, and lines” ([Mike Rohde, The Sketchnote Handbook](https://learning-oreilly-com.ezproxy.library.uvic.ca/library/view/the-sketchnote-handbook/9780133088137/chapter-01.html){:target="_blank"}).  Emergent research seems to indicate that summary note-taking, combined with relevant drawings combine to be one of the most effective ways to remember new information and create links to other related concepts and ideas. Sketchnotes can also be an effective tool to communicate complex ideas succinctly and clearly (see below). This workshop will briefly review the benefits of Sketchnoting, before working through basic Sketchnoting techniques to create a personalized Sketchnote on a provided topic or any topic chosen by a participant.
 
 ## Learning objectives
 
