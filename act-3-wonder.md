@@ -5,9 +5,9 @@ nav_order: 4
 parent: Workshop Activities
 ---
 
-<img src="images/act-1/logo.png" alt="logo" style="float:right;width:360px;margin-left:10px;">
+<img src="images/act-3/see-think-wonder.png" alt="see / think / wonder" style="float:right;width:360px;margin-left:10px;">
 
-# Sketchnote Activity - See/Think/Wonder
+# Sketchnote Activity - See / Think / Wonder
 
 In this exercise, you will work through creating a sketchnote based on a short about *See/Think/Wonder* activities typically used in elementary school classrooms. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 
