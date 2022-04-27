@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 1-Skills-Building
+title: 1-Skills Building
 nav_order: 2
 parent: Workshop Activities
 ---
 
 <img src="images/act-1/logo.png" alt="logo" style="float:right;width:360px;">
 
-# Skills-Building Activity
+# Skills Building Activity
 
 In this exercise, you will work on developing the basic skills, techniques, and tools to help you create more memorable Sketchnotes. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 
