@@ -4,28 +4,28 @@ title: See/Think/Wonder Article
 nav_exclude: true
 ---
 
-# **See Think Wonder**
+# **See-Think-Wonder Activities**
 
-See, Think, Wonder routines encourages students to make careful observations and thoughtful interpretations. It can help stimuate curosity and can set the stage for inquiry.
+See, Think, Wonder activities encourages students to make careful observations and thoughtful interpretations. It can help stimuate curosity and can set the stage for inquiry.
 
 ## Purpose
 
-What kind of thinking does this routine encourage? This routine emphasises the importance of observation as the basis for thinking and interpretation that follows the close looking of an image object, video, excerpts of text, painting, photo, etc. The stimulus should be evocative and engaging.
+What kind of thinking does this activity encourage? This activity emphasises the importance of observation as the basis for thinking and interpretation that follows the close looking of an image object, video, excerpts of text, painting, photo, etc. The stimulus should be evocative and engaging.
 Application
-- When and where can it be used? Use this routine:
+- When and where can it be used? Use this activity:
 - When you want students to think carefully about why something looks the way it does or the way it is.
 - Use at the beginning of a new unit to motivate student interest.
 - Consider using with an interesting object near the end of a unit to encourage students to further apply their new knowledge and ideas.
 
 ## Assessment
 
-How can I just this routine as assessment? 
+How can I just this activity as assessment? 
 - See responses -> look for improvement in ability to notice details that take them deeper in the image/object rather than getting stuck on immediate surface features.
 - Think responses -> pay attenting to the kind of supports students are able to provide for their interpretations in theponse to the What makes you say that? Prompt. Are they using evidence to create coherent links?
 - Wonder responses -> look for questions that are more adventurous and board rather than limited to those requiring specific factual responses.
 
 ## Launch
-What are the steps needed for starting and using this routine?
+What are the steps needed for starting and using this activity?
 1. Setup -> Present the chosen image in a way that allows students to see as much detail as possible. Allow sufficient silent time for close observation, 2 or 3 minutes, before any talk or discussion.
 2. See -> Ask learners to state what they noticed. Emphasise we are not looking for interpretations at this state, only what they observe. Useful prompt: an observation is something you could actually put your fingers on within the image/object.
 3. Think -> Ask learners what they think is going on in the image/object. This general, interpretive question may be modified to suite what is being viewed. The goal here is to build up layers of tentative interpretation rather than mrely naming the subject matter. Push for alternative and additions -> What else is going on here? What do you see that makes you say that? This encourages learners to provide supporting evidence.
