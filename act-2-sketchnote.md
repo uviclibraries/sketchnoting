@@ -9,6 +9,8 @@ parent: Workshop Activities
 
 # Sketchnote Activity about Sketchnoting ;-)
 
+*UNDER ACTIVE DEVELOPMENT*
+
 In this exercise, you will work through creating a sketchnote based on a short journal article. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 
 <img src="images/act-2/tips.png" alt="10 tips" style="width:720px;">
