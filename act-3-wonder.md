@@ -15,7 +15,7 @@ In this exercise, you will work through creating a sketchnote based on a short a
 <img src="images/act-2/pens.png" alt="pens" style="float:right;width:180px;margin-left:10px;">
 
 1.  Gather your tools: Notebook (or several sheets of paper), a pen (or two of different colours), and a highlighter.
-2.  Skim through the provided [article](journal-article.html){:target="_blank"} and then go back and read through it, highlighting key concepts and important information. If you have your own article you’d like to sketchnote, please do the same with your own.
+2.  Skim through the provided [See-Think-Wonder article](see-think-wonder-article.html){:target="_blank"} and then go back and read through it, highlighting key concepts and important information. If you have your own article you’d like to sketchnote, please do the same with your own.
 4.  Create a title for your sketchnote including a line drawing of the author: “The scientific case for doodling while taking notes.”
 
     <img src="images/act-2/ted-talk.png" alt="rachel" style="width:240px;">
