@@ -33,4 +33,5 @@ What are the steps needed for starting and using this activity?
 5. Share the thinking -> Students generally share their thinking at each step along the way before moving on. This allows the class to build on the group’s thinking at the prefous stage and often results in richer discussion. It can be useful to document the thinking at each stage as it happens, although this is not always necessary.
 
 **By Alice Vigors**
-- [Original article source](https://thinkingpathwayz.weebly.com/uploads/1/0/4/4/104440805/see_think_wonder__1_.pdf){:target="_blank"}
+
+[Original article source](https://thinkingpathwayz.weebly.com/uploads/1/0/4/4/104440805/see_think_wonder__1_.pdf){:target="_blank"}
