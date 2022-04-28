@@ -5,7 +5,6 @@ nav_exclude: true
 ---
 
 # **See Think Wonder**
-## By Alice Vigors
 
 See, Think, Wonder routines encourages students to make careful observations and thoughtful interpretations. It can help stimuate curosity and can set the stage for inquiry.
 
@@ -33,6 +32,6 @@ What are the steps needed for starting and using this routine?
 4. Wonder -> Ask learners what they are now wondering about based on what they have seen and have been thinking. Initially students may find it hard to separate “thinking” from “wondering”. Using ‘I wonder…” can be useful to begin.
 5. Share the thinking -> Students generally share their thinking at each step along the way before moving on. This allows the class to build on the group’s thinking at the prefous stage and often results in richer discussion. It can be useful to document the thinking at each stage as it happens, although this is not always necessary.
 
-<mark style="background-color:orange;"><b>Note:</b> Highlighted text is a key point!</mark>
+## By Alice Vigors
 
 Original article source: [https://thinkingpathwayz.weebly.com/uploads/1/0/4/4/104440805/see_think_wonder__1_.pdf](https://thinkingpathwayz.weebly.com/uploads/1/0/4/4/104440805/see_think_wonder__1_.pdf){:target="_blank"}
