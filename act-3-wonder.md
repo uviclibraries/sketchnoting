@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3-Wonder Sketchnote
+title: 3-Sketchnote Procedures
 nav_order: 4
 parent: Workshop Activities
 ---
