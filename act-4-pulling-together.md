@@ -5,7 +5,7 @@ nav_order: 5
 parent: Workshop Activities
 ---
 
-<img src="images/act-4/pulling-together.png" alt="Pulling Together" style="float:right;width:360px;margin-left:10px;">
+<img src="images/act-4/pulling-together.png" alt="Pulling Together" style="float:right;width:300px;margin-left:10px;">
 
 # Sketchnote Activity - Pulling Together a Guide for Indiginization of Post-Secondary Curriculum
 
