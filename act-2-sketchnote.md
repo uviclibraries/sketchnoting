@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2-Meta Sketchnote
+title: 2-Sketchnote Lectures
 nav_order: 3
 parent: Workshop Activities
 ---
@@ -8,8 +8,6 @@ parent: Workshop Activities
 <img src="images/act-1/logo.png" alt="logo" style="float:right;width:360px;margin-left:10px;">
 
 # Sketchnote Activity about Sketchnoting ;-)
-
-*UNDER ACTIVE DEVELOPMENT*
 
 In this exercise, you will work through creating a sketchnote based on a short journal article. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 
