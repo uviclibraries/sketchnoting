@@ -21,7 +21,7 @@ In this exercise, you will work through creating a sketchnote based on a chapter
   - If you need some inspiration, please take another look at the [Sills Building handout](act-1-skills-building.html){:target="_blank"} again. 
   - Also don't forget to do Google image searches for drawing inspiration; for example if I wanted to draw a picture of any eye, I'd Google: **holistic icon** (see image below).
 <img src="images/act-4/holistic-clip-art.png" alt="Google image search holistic clip art">
-<img src="images/act-4/indigenous-pedagogies-sketch.jpg" alt="sketchnote of see, think, and wonder" style="float:right;width:400px;margin-left:10px;">
+<img src="images/act-4/indigenous-pedagogies-sketch.jpg" alt="sketchnote of indiginous pedagogy article" style="float:right;width:400px;margin-left:10px;">
 6.  Once you're finished your sketchnote (and it shouldn't be perfect), take a picture of your sketchnote and please share it with us: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
 Please let us know if you’d like us to keep your sketchnote private, or if we could use it as an example for other learners (with or without attribution depending on what you’d like).
 
