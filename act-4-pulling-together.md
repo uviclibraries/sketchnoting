@@ -19,9 +19,9 @@ In this exercise, you will work through creating a sketchnote based on a chapter
 3.  Create a title for your sketchnote. You might want to use something like, “Ingigenous Pedagogies”, but please make sure to use a title that is meaningful to you based on what were the key points of the article that stook out to you when you highlighed key concepts and information.
 4.  Sketchnote the main concepts and information, using a format or layout that you’ve decided to use. 
   - If you need some inspiration, please take another look at the [Sills Building handout](act-1-skills-building.html){:target="_blank"} again. 
-  - Also don't forget to do Google image searches for drawing inspiration; for example if I wanted to draw a picture of any eye, I'd Google: **eye icon** (see image below).
-<img src="images/act-3/eye-clip-art.png" alt="Google image search eye clip art">
-<img src="images/act-3/see-think-wonder-sketch.jpg" alt="sketchnote of see, think, and wonder" style="float:right;width:400px;margin-left:10px;">
+  - Also don't forget to do Google image searches for drawing inspiration; for example if I wanted to draw a picture of any eye, I'd Google: **holistic icon** (see image below).
+<img src="images/act-4/holistic-clip-art.png" alt="Google image search eye clip art">
+<img src="images/act-4/indigenous-pedagogies-sketch.jpg" alt="sketchnote of see, think, and wonder" style="float:right;width:400px;margin-left:10px;">
 6.  Once you're finished your sketchnote (and it shouldn't be perfect), take a picture of your sketchnote and please share it with us: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
 Please let us know if you’d like us to keep your sketchnote private, or if we could use it as an example for other learners (with or without attribution depending on what you’d like).
 
