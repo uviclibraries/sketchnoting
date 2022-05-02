@@ -9,7 +9,7 @@ parent: Workshop Activities
 
 # Sketchnote Activity - See / Think / Wonder
 
-In this exercise, you will work through creating a sketchnote based on a short about *See/Think/Wonder* activities typically used in elementary school classrooms. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
+In this exercise, you will work through creating a sketchnote based on a short about *See/Think/Wonder* activities typically used in K-12 classrooms. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 
 <img src="images/act-2/pens.png" alt="pens" style="float:right;width:180px;margin-left:10px;">
 1.  Gather your tools: Notebook (or several sheets of paper), a pen (two of different colours if possible), and a highlighter. 
