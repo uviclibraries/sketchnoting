@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3-Sketchnote Procedures
+title: 3-Sketchnote See-Think-Wonder
 nav_order: 4
 parent: Workshop Activities
 ---
