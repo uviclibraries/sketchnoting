@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4-Sketchnote Pulling Together
+title: 4-Sketchnote Indigenous Pedagogy
 nav_order: 5
 parent: Workshop Activities
 ---
