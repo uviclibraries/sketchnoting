@@ -15,10 +15,9 @@ In this exercise, you learn how to use sketchnote "scense" to help learn new voc
 1.  Gather your tools: Notebook (or several sheets of blank paper), a pen (two of different colours if possible), and one or two highlighters. 
 2.  Watch this short 4-minute video below that will introduce you to :
 <iframe width="560" height="315" src="https://www.youtube.com/embed/seb4JpMVVO0?start=45" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-4.  Now go back and read through the article, highlighting key concepts and important information. If you have your own article you’d like to sketchnote, please do the same with your own.
-<img src="images/act-4/pulling-together-article.jpg" alt="highlighted text" style="float:right;width:300px;margin-left:10px;">
-3.  Create a title for your sketchnote. You might want to use something like, “Ingigenous Pedagogies”, but please make sure to use a title that is meaningful to you based on what were the key points of the article that stook out to you when you highlighed key concepts and information.
-4.  Sketchnote the main concepts and information, using a format or layout that you’ve decided to use. 
+3.  
+4.  Create a title for your sketchnote. You might want to use something like, “Ingigenous Pedagogies”, but please make sure to use a title that is meaningful to you based on what were the key points of the article that stook out to you when you highlighed key concepts and information.
+5.  Sketchnote the main concepts and information, using a format or layout that you’ve decided to use. 
   - If you need some inspiration, please take another look at the [Sills Building handout](act-1-skills-building.html){:target="_blank"} again. 
   - Also don't forget to do Google image searches for drawing inspiration; for example if I wanted to draw a picture of any eye, I'd Google: **holistic icon** (see image below).
 <img src="images/act-4/holistic-clip-art.png" alt="Google image search holistic clip art">
