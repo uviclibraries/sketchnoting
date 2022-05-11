@@ -13,8 +13,9 @@ In this exercise, you learn how to use sketchnote "scense" to help learn new voc
 
 <img src="images/act-2/pens.png" alt="pens" style="float:right;width:180px;margin-left:10px;">
 1.  Gather your tools: Notebook (or several sheets of paper), a pen (two of different colours if possible), and a highlighter. 
-2.  Skim through the provided [Pulling Together article](indigenous-pedagogy-article.html){:target="_blank"} (the page will open in a new browser tab).
-3.  Now go back and read through the article, highlighting key concepts and important information. If you have your own article you’d like to sketchnote, please do the same with your own.
+2.  Watch this 4-minute video below:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/seb4JpMVVO0?start=33" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+4.  Now go back and read through the article, highlighting key concepts and important information. If you have your own article you’d like to sketchnote, please do the same with your own.
 <img src="images/act-4/pulling-together-article.jpg" alt="highlighted text" style="float:right;width:300px;margin-left:10px;">
 3.  Create a title for your sketchnote. You might want to use something like, “Ingigenous Pedagogies”, but please make sure to use a title that is meaningful to you based on what were the key points of the article that stook out to you when you highlighed key concepts and information.
 4.  Sketchnote the main concepts and information, using a format or layout that you’ve decided to use. 
