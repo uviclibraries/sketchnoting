@@ -7,9 +7,9 @@ parent: Workshop Activities
 
 <img src="images/act-5/learn-language.jpg" alt="Learn a New Language with Sketchnoting" style="float:right;width:300px;margin-left:10px;">
 
-# Sketchnote Activity - Learn New a Language
+# Learn New a Language with Sketchnotes
 
-In this exercise, you will work through creating a sketchnote based on a chapter from the book, _Pulling Togther - A Guide for Idnidenization of Post-Secondary Institutions_. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
+In this exercise, you learn how to use sketchnote "scense" to help learn new vocabulary in a language you are learning. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 
 <img src="images/act-2/pens.png" alt="pens" style="float:right;width:180px;margin-left:10px;">
 1.  Gather your tools: Notebook (or several sheets of paper), a pen (two of different colours if possible), and a highlighter. 
