@@ -6,7 +6,7 @@ nav_order: 10
 # Additional Resources & Acknowledgements
 
 ## Sketchnoting Resources
-- [Verbal to Visual - Getting Started with Sketchnoting](https://www.verbaltovisual.com/sketchnoting/){:target="_blank"} 
+- [Verbal to Visual - Getting Started with Sketchnoting](https://www.verbaltovisual.com/sketchnoting/){:target="_blank"} by Doug Niell
 - [The Sketchnote Handbook](https://learning-oreilly-com.ezproxy.library.uvic.ca/library/view/the-sketchnote-handbook/9780133088137/chapter-01.html){:target="_blank"} by Mike Rohde
 - [LernOS Sketchnoging Guide](https://cogneon.github.io/lernos-sketchnoting/en/0300_Introduction/){:target="_blank"} - A full online course
 
