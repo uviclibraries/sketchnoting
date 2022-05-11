@@ -12,7 +12,7 @@ parent: Workshop Activities
 In this exercise, you learn how to use sketchnote "scense" to help learn new vocabulary in a language you are learning. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 
 <img src="images/act-2/pens.png" alt="pens" style="float:right;width:180px;margin-left:10px;">
-1.  Gather your tools: Notebook (or several sheets of paper), a pen (two of different colours if possible), and a highlighter. 
+1.  Gather your tools: Notebook (or several sheets of blank paper), a pen (two of different colours if possible), and one or two highlighters. 
 2.  Watch this 4-minute video below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/seb4JpMVVO0?start=33" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 4.  Now go back and read through the article, highlighting key concepts and important information. If you have your own article you’d like to sketchnote, please do the same with your own.
