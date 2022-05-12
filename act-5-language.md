@@ -20,7 +20,8 @@ In this exercise, you learn how to use sketchnote "scenes" to help learn new voc
 
 <li value="3">  What kid of vocabulary would you like to learn? What language are you learning? Of course you can follow along with this tutoral and use the "camping" vocabulary in the [SENĆOŦEN language](https://www.firstvoices.com/explore/FV/sections/Data/THE%20SEN%C4%86O%C5%A6EN%20LANGUAGE/SEN%C4%86O%C5%A6EN/SEN%C4%86O%C5%A6EN){:target="_blank"}, but feel free to use a differnt vocabulary and different language as you walk through this workshop activity.</li>
 4.  Draw a title or topic for your Sketchnote:
-  - In this case our topic is "camping" or "KELṈEN", so I will draw a title for my sketchnote with "KELṈEN" large and promenant. I will not include the English word for this as hopefully the rest of the sketchnote will make the topic more obvious 
+  - In this case our topic is "camping" or "KELṈEN", so I will draw a title for my sketchnote with "KELṈEN" large and promenant. 
+  - I will not include the English word for this as hopefully the rest of the sketchnote will make the topic more obvious 
 6.  List vocabulary
 7.  Draw scene with 1 icon for each word
 8.  Create a dialog box for each icon with room for the word in the language you are learning, along with a phonetic spelling so that you can more easily learn the correct pronunciation for each word.
