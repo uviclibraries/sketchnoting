@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 3-Sketchnote See-Think-Wonder
-nav_order: 4
+title: 5-Sketchnote See-Think-Wonder
+nav_order: 6
 parent: Workshop Activities
 ---
 
