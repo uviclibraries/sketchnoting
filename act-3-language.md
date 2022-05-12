@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 5-Sketchnotes to Learn a Language
-nav_order: 6
+title: 3-Sketchnotes to Learn a Language
+nav_order: 4
 parent: Workshop Activities
 ---
 
