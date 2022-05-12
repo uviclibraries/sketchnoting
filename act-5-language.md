@@ -15,7 +15,7 @@ In this exercise, you learn how to use sketchnote "scenes" to help learn new voc
 
 1.  Gather your tools: Notebook (or several sheets of blank paper), a pen (two of different colours if possible), and one or two highlighters. 
 2.  Watch this short 4-minute video below that will introduce you to the principles underlying sketchnoting for language acquisition in general, and vocabulary building specifically:  
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/seb4JpMVVO0?start=45" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/seb4JpMVVO0?start=45" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 4.  What kid of vocabulary would you like to learn? What language are you learning? Of course you can follow along with this tutoral and use the "camping" vocabulary in the [SENĆOŦEN language](https://www.firstvoices.com/explore/FV/sections/Data/THE%20SEN%C4%86O%C5%A6EN%20LANGUAGE/SEN%C4%86O%C5%A6EN/SEN%C4%86O%C5%A6EN){:target="_blank"}, but feel free to use a differnt vocabulary and different language as you walk through this workshop activity.
 5.  Title
 6.  List vocabulary
