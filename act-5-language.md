@@ -19,13 +19,11 @@ In this exercise, you learn how to use sketchnote "scenes" to help learn new voc
 <iframe width="560" height="315" src="https://www.youtube.com/embed/seb4JpMVVO0?start=45" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 3.  What kid of vocabulary would you like to learn? What language are you learning? Of course you can follow along with this tutoral and use the "camping" vocabulary in the [SENĆOŦEN language](https://www.firstvoices.com/explore/FV/sections/Data/THE%20SEN%C4%86O%C5%A6EN%20LANGUAGE/SEN%C4%86O%C5%A6EN/SEN%C4%86O%C5%A6EN){:target="_blank"}, but feel free to use a differnt vocabulary and different language as you walk through this workshop activity.
-4.  Title
-5.  List vocabulary
-6.  Draw scene with 1 icon for each word
+4.  Draw a title or topic for your Sketchnote:
+  - In this case our topic is "camping" or "KELṈEN", so I will draw a title for my sketchnote with "KELṈEN" large and promenant. I will not include the English word for this as hopefully the rest of the sketchnote will make the topic more obvious 
+6.  List vocabulary
+7.  Draw scene with 1 icon for each word
 8.  Create a dialog box for each icon with room for the word in the language you are learning, along with a phonetic spelling so that you can more easily learn the correct pronunciation for each word.
-9.  Sketchnote the main concepts and information, using a format or layout that you’ve decided to use. 
-  - If you need some inspiration, please take another look at the [Sills Building handout](act-1-skills-building.html){:target="_blank"} again. 
-  - Also don't forget to do Google image searches for drawing inspiration; for example if I wanted to draw a picture of any eye, I'd Google: **holistic icon** (see image below).
 <img src="images/act-4/holistic-clip-art.png" alt="Google image search holistic clip art">
 <img src="images/act-4/indigenous-pedagogies-sketch.jpg" alt="sketchnote of indiginous pedagogy article" style="float:right;width:400px;margin-left:10px;">
 5.  Once you're finished your sketchnote (and it shouldn't be perfect), take a picture of your sketchnote and please share it with us: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
