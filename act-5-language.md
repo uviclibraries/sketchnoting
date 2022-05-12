@@ -18,7 +18,9 @@ In this exercise, you learn how to use sketchnote "scenes" to help learn new voc
 3.  What kid of vocabulary would you like to learn? What language are you learning? Of course you can follow along with this tutoral and use the "camping" vocabulary in the [SENĆOŦEN language](https://www.firstvoices.com/explore/FV/sections/Data/THE%20SEN%C4%86O%C5%A6EN%20LANGUAGE/SEN%C4%86O%C5%A6EN/SEN%C4%86O%C5%A6EN){:target="_blank"}, but feel free to use a differnt vocabulary and different language as you walk through this workshop activity.
 4.  Title
 5.  List vocabulary
-6.  Sketchnote the main concepts and information, using a format or layout that you’ve decided to use. 
+6.  Draw scene with 1 icon for each word
+7.  Create a dialog box for each icon with room for the word in the language you are learning, along with a phonetic spelling so that you can more easily learn the correct pronunciation for each word.
+8.  Sketchnote the main concepts and information, using a format or layout that you’ve decided to use. 
   - If you need some inspiration, please take another look at the [Sills Building handout](act-1-skills-building.html){:target="_blank"} again. 
   - Also don't forget to do Google image searches for drawing inspiration; for example if I wanted to draw a picture of any eye, I'd Google: **holistic icon** (see image below).
 <img src="images/act-4/holistic-clip-art.png" alt="Google image search holistic clip art">
