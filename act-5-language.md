@@ -13,7 +13,8 @@ In this exercise, you learn how to use sketchnote "scense" to help learn new voc
 
 <img src="images/act-2/pens.png" alt="pens" style="float:right;width:180px;margin-left:10px;">
 1.  Gather your tools: Notebook (or several sheets of blank paper), a pen (two of different colours if possible), and one or two highlighters. 
-2.  Watch this short 4-minute video below that will introduce you to the principles underlying sketchnoting for language acquisition in general, and vocabulary building specifically: <iframe width="560" height="315" src="https://www.youtube.com/embed/seb4JpMVVO0?start=45" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+2.  Watch this short 4-minute video below that will introduce you to the principles underlying sketchnoting for language acquisition in general, and vocabulary building specifically: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/seb4JpMVVO0?start=45" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 4.  Next step here...
 5.  Create a title for your sketchnote. You might want to use something like, “Ingigenous Pedagogies”, but please make sure to use a title that is meaningful to you based on what were the key points of the article that stook out to you when you highlighed key concepts and information.
 6.  Sketchnote the main concepts and information, using a format or layout that you’ve decided to use. 
