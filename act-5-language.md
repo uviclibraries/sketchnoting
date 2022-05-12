@@ -22,10 +22,10 @@ In this exercise, you learn how to use sketchnote "scenes" to help learn new voc
   - I will not include the English word for this as hopefully the rest of the sketchnote will make the topic more obvious 
 <br>**PHOTO HERE of the title bar**
 5.  List vocabulary in English and the language you are learning: Tent, lake, ???
-7.  Draw scene with 1 icon for each word
 <br>**PHOTO of Language lists**
+7.  Draw scene with 1 icon for each word
+<br><img src="images/act-4/holistic-clip-art.png" alt="Google image search holistic clip art">
 9.  Create a dialog box for each icon with room for the word in the language you are learning, along with a phonetic spelling so that you can more easily learn the correct pronunciation for each word.
-<img src="images/act-4/holistic-clip-art.png" alt="Google image search holistic clip art">
 8.  Once you're finished your sketchnote (and it shouldn't be perfect), take a picture of your sketchnote and please share it with us: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
 Please let us know if you’d like us to keep your sketchnote private, or if we could use it as an example for other learners (with or without attribution depending on what you’d like).
 
