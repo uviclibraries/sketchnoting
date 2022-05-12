@@ -5,7 +5,7 @@ nav_order: 4
 parent: Workshop Activities
 ---
 
-<img src="images/act-5/learn-language.jpg" alt="Learn a New Language with Sketchnoting" style="float:right;width:300px;margin-left:10px;">
+<img src="images/act-5/learn-language.jpg" alt="Learn a New Language with Sketchnoting" style="float:right;width:350px;margin-left:10px;">
 
 # Learn a New Language with Sketchnotes
 
