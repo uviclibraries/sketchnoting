@@ -20,13 +20,13 @@ In this exercise, you learn how to use sketchnote "scenes" to help learn new voc
 4.  Draw a title or topic for your Sketchnote:
   - In this case our topic is "camping" or "KELṈEN", so I will draw a title for my sketchnote with "KELṈEN" large and promenant. 
   - I will not include the English word for this as hopefully the rest of the sketchnote will make the topic more obvious 
-**PHOTO HERE of the title bar**
+<br>**PHOTO HERE of the title bar**
 5.  List vocabulary in English and the language you are learning: Tent, lake, ???
-6.  Draw scene with 1 icon for each word
-7.  Create a dialog box for each icon with room for the word in the language you are learning, along with a phonetic spelling so that you can more easily learn the correct pronunciation for each word.
+7.  Draw scene with 1 icon for each word
+<br>**PHOTO of Language lists**
+9.  Create a dialog box for each icon with room for the word in the language you are learning, along with a phonetic spelling so that you can more easily learn the correct pronunciation for each word.
 <img src="images/act-4/holistic-clip-art.png" alt="Google image search holistic clip art">
-<img src="images/act-4/indigenous-pedagogies-sketch.jpg" alt="sketchnote of indiginous pedagogy article" style="float:right;width:400px;margin-left:10px;">
-8\.  Once you're finished your sketchnote (and it shouldn't be perfect), take a picture of your sketchnote and please share it with us: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
+8.  Once you're finished your sketchnote (and it shouldn't be perfect), take a picture of your sketchnote and please share it with us: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
 Please let us know if you’d like us to keep your sketchnote private, or if we could use it as an example for other learners (with or without attribution depending on what you’d like).
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
