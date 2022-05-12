@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 3-Sketchnote to Learn a Language
+title: 3-Sketchnote to Learn Languages
 nav_order: 4
 parent: Workshop Activities
 ---
 
 <img src="images/act-5/learn-language.jpg" alt="Learn a New Language with Sketchnoting" style="float:right;width:300px;margin-left:10px;">
 
-# Learn New a Language with Sketchnotes
+# Learn a New Language with Sketchnotes
 
 In this exercise, you learn how to use sketchnote "scenes" to help learn new vocabulary in a language you want to learn or are actively learning. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 
