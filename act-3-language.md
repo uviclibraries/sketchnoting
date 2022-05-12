@@ -10,7 +10,7 @@ parent: Workshop Activities
 # Learn a New Language with Sketchnotes
 
 In this exercise, you learn how to use sketchnote "scenes" to help learn new vocabulary in a language you want to learn or are actively learning. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
-
+<hr>
 <img src="images/act-2/pens.png" alt="pens" style="float:right;width:180px;margin-left:10px;">
 
 1.  Gather your tools: Notebook (or several sheets of blank paper), a pen (two of different colours if possible), and one or two highlighters. 
