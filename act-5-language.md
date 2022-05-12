@@ -20,7 +20,8 @@ In this exercise, you learn how to use sketchnote "scenes" to help learn new voc
 4\.  Draw a title or topic for your Sketchnote:
   - In this case our topic is "camping" or "KELṈEN", so I will draw a title for my sketchnote with "KELṈEN" large and promenant. 
   - I will not include the English word for this as hopefully the rest of the sketchnote will make the topic more obvious 
-5\.  List vocabulary
+**PHOTO HERE of the title bar**
+5\.  List vocabulary in English and the language you are learning: Tent, lake, ???
 6\.  Draw scene with 1 icon for each word
 7\.  Create a dialog box for each icon with room for the word in the language you are learning, along with a phonetic spelling so that you can more easily learn the correct pronunciation for each word.
 <img src="images/act-4/holistic-clip-art.png" alt="Google image search holistic clip art">
