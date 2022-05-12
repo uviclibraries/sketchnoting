@@ -18,10 +18,10 @@ In this exercise, you learn how to use sketchnote "scenes" to help learn new voc
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/seb4JpMVVO0?start=45" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-4.  What kid of vocabulary would you like to learn? What language are you learning? Of course you can follow along with this tutoral and use the "camping" vocabulary in the [SENĆOŦEN language](https://www.firstvoices.com/explore/FV/sections/Data/THE%20SEN%C4%86O%C5%A6EN%20LANGUAGE/SEN%C4%86O%C5%A6EN/SEN%C4%86O%C5%A6EN){:target="_blank"}, but feel free to use a differnt vocabulary and different language as you walk through this workshop activity.
-5.  Title
-6.  List vocabulary
-7.  Draw scene with 1 icon for each word
+3.  What kid of vocabulary would you like to learn? What language are you learning? Of course you can follow along with this tutoral and use the "camping" vocabulary in the [SENĆOŦEN language](https://www.firstvoices.com/explore/FV/sections/Data/THE%20SEN%C4%86O%C5%A6EN%20LANGUAGE/SEN%C4%86O%C5%A6EN/SEN%C4%86O%C5%A6EN){:target="_blank"}, but feel free to use a differnt vocabulary and different language as you walk through this workshop activity.
+4.  Title
+5.  List vocabulary
+6.  Draw scene with 1 icon for each word
 8.  Create a dialog box for each icon with room for the word in the language you are learning, along with a phonetic spelling so that you can more easily learn the correct pronunciation for each word.
 9.  Sketchnote the main concepts and information, using a format or layout that you’ve decided to use. 
   - If you need some inspiration, please take another look at the [Sills Building handout](act-1-skills-building.html){:target="_blank"} again. 
