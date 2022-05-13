@@ -30,7 +30,7 @@ In this exercise, you learn how to use sketchnote "scenes" to help learn new voc
   - Fire -> SĆEḰEU¸SE¸
   - Smoke -> SBOṮEṈ
   - Flashlight -> JEBITEṈ ĆI¸EḰEN¸
-7.  Draw scene with 1 icon for each word, and try to portray a story with the placement of your icons. 
+7.  Draw scene with 1 icon for each word, and try to portray a story with the placement of your icons. If you can't think of how do draw an icon for an object, do a Google image search for "icon tent" for example. 
   - For example someone arriving at their tent with a backpack and a flashlight.
   - Then they light a fire that gives off smoke.
 9.  Create a dialog box for each icon with room for the word in the language you are learning, along with a phonetic spelling so that you can more easily learn the correct pronunciation for each word.
