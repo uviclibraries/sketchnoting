@@ -5,7 +5,7 @@ nav_order: 4
 parent: Workshop Activities
 ---
 
-<img src="images/act-5/learn-language.jpg" alt="Learn a New Language with Sketchnoting" style="float:right;width:450px;margin-left:10px;">
+<img src="images/act-3/learn-language.jpg" alt="Learn a New Language with Sketchnoting" style="float:right;width:450px;margin-left:10px;">
 
 # Learn a New Language with Sketchnotes
 
@@ -23,7 +23,7 @@ In this exercise, you learn how to use sketchnote "scenes" to help learn new voc
 5.  Draw a title or topic for your Sketchnote:
   - In this case our topic is **camping** or **KELṈEN**, so I will draw a title for my sketchnote with **KELṈEN** large and promenant, and then add some camping or wilderness doodles to the title bar. 
   - Note that I did not include the English word for camping in the title bar as hopefully the rest of the sketchnote will make the topic more obvious. 
-<br><img src="images/act-5/kelnen.jpg" alt="KELNEN or Camping in the SENCOTEN language">
+<br><img src="images/act-3/kelnen.jpg" alt="KELNEN or Camping in the SENCOTEN language">
 5.  List vocabulary in English and the language you are learning (Here's a link to a [SENĆOŦEN dictionary](https://itservices.cas.unt.edu/~montler/saanich/wordlist/EnglishIndex.html){:target="_blank"} in case it's helpful). For the camping example some words to consider might be: 
   - Tent -> KELEJTEN
   - Backpack -> ŦEṈÁ¸TEN
@@ -34,7 +34,7 @@ In this exercise, you learn how to use sketchnote "scenes" to help learn new voc
   - For example someone arriving at their tent with a backpack and a flashlight.
   - Then they light a fire that gives off smoke.
 9.  Create a dialog box for each icon with room for the word in the language you are learning, along with a phonetic spelling so that you can more easily learn the correct pronunciation for each word.
-<br><img src="images/act-5/labels.jpg" alt="Icons of camping vocabulary with SENCOTEN labels." style="float:right;width:450px;margin-left:10px;">
+<br><img src="images/act-3/labels.jpg" alt="Icons of camping vocabulary with SENCOTEN labels." style="float:right;width:450px;margin-left:10px;">
 11.  Once you're finished your sketchnote (and it shouldn't be perfect), take a picture of your sketchnote and please share it with us: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
 Please let us know if you’d like us to keep your sketchnote private, or if we could use it as an example for other learners (with or without attribution depending on what you’d like).
 
