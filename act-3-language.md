@@ -34,7 +34,7 @@ In this exercise, you learn how to use sketchnote "scenes" to help learn new voc
   - For example someone arriving at their tent with a backpack and a flashlight.
   - Then they light a fire that gives off smoke.
 9.  Create a dialog box for each icon with room for the word in the language you are learning, along with a phonetic spelling so that you can more easily learn the correct pronunciation for each word.
-<br><img src="images/act-5/labels.jpg" alt="Icons of camping vocabulary with SENCOTEN labels." style="float:right;width:450px;margin-left:10px;">
+<br><img src="images/act-5/labels.jpg" alt="Icons of camping vocabulary with SENCOTEN labels." style="float:right;width:500px;margin-left:10px;">
 11.  Once you're finished your sketchnote (and it shouldn't be perfect), take a picture of your sketchnote and please share it with us: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
 Please let us know if you’d like us to keep your sketchnote private, or if we could use it as an example for other learners (with or without attribution depending on what you’d like).
 
