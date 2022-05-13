@@ -25,8 +25,13 @@ In this exercise, you learn how to use sketchnote "scenes" to help learn new voc
   - Note that I did not include the English word for camping in the title bar as hopefully the rest of the sketchnote will make the topic more obvious. 
 <br><img src="images/act-5/kelnen.jpg" alt="KELNEN or Camping in the SENCOTEN language">
 5.  List vocabulary in English and the language you are learning (Here's a link to a [SENĆOŦEN dictionary](https://itservices.cas.unt.edu/~montler/saanich/wordlist/EnglishIndex.html) in case it's helpful){:target="_blank"}). For the camping example some words to consider might be: 
-  - Tent
-  - Lake, ???  
+  - Tent -> KELEJTEN (pronounced: )
+  - Sleeping bag -> ŚW̱¸O¸MET (pronounced: )
+  - Backpack -> 
+  - Fire -> 
+  - Lantern -> 
+  - Lake -> 
+  - Boat -> 
 <br>**PHOTO of Language lists**
 7.  Draw scene with 1 icon for each word...
 <br>**PHOTO of all the icons (but no words yet)**
