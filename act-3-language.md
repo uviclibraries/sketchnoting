@@ -33,7 +33,7 @@ In this exercise, you learn how to use sketchnote "scenes" to help learn new voc
   - Flashlight -> JEBITEṈ ĆI¸EḰEN¸ (pronounced: )
   - Lake -> XOĆE¸ (pronounced: )
   - Canoe -> SNEW̱EȽ (pronounced: )
-<br>**PHOTO of Language lists**
+<br><img src="images/act-5/icons.jpg" alt="Icons of camping vocabular without SENCOTEN or English labels.">
 7.  Draw scene with 1 icon for each word...
 <br>**PHOTO of all the icons (but no words yet)**
 9.  Create a dialog box for each icon with room for the word in the language you are learning, along with a phonetic spelling so that you can more easily learn the correct pronunciation for each word.
