@@ -16,8 +16,11 @@ In this exercise, you learn how to use sketchnote "scenes" to help learn new voc
 1.  Gather your tools: Notebook (or several sheets of blank paper), a pen (two of different colours if possible), and one or two highlighters. 
 2.  If you haven't already, please watch this short 4-minute video below that will introduce you to the principles underlying sketchnoting for language acquisition in general, and vocabulary building specifically:<br>  
     <iframe width="560" height="315" src="https://www.youtube.com/embed/seb4JpMVVO0?start=45" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-3. What kid of vocabulary would you like to learn? What language are you learning? Of course you can follow along with this tutoral and use the "camping" vocabulary in the [SENĆOŦEN language](https://www.firstvoices.com/explore/FV/sections/Data/THE%20SEN%C4%86O%C5%A6EN%20LANGUAGE/SEN%C4%86O%C5%A6EN/SEN%C4%86O%C5%A6EN){:target="_blank"}, but feel free to use a differnt vocabulary and different language as you walk through this workshop activity.
-4.  Draw a title or topic for your Sketchnote:
+3. Please ask yourself these questions:
+  - What kind of vocabulary would you like to learn? 
+  - What language are you learning? 
+  - Of course you can follow along with this tutoral and use the "camping" vocabulary in the [SENĆOŦEN language](https://www.firstvoices.com/explore/FV/sections/Data/THE%20SEN%C4%86O%C5%A6EN%20LANGUAGE/SEN%C4%86O%C5%A6EN/SEN%C4%86O%C5%A6EN){:target="_blank"}, but please feel free to use a differnt vocabulary and different language as you walk through this workshop activity.
+5.  Draw a title or topic for your Sketchnote:
   - In this case our topic is "camping" or "KELṈEN", so I will draw a title for my sketchnote with "KELṈEN" large and promenant. 
   - I will not include the English word for this as hopefully the rest of the sketchnote will make the topic more obvious 
 <br>**PHOTO HERE of the title bar**
