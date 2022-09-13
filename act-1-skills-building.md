@@ -61,4 +61,4 @@ In this exercise, you will work on developing the basic skills, techniques, and 
     
     <img src="images/act-1/drawings6.png" alt="drawings" style="width:240px;">
 
-[NEXT STEP: Sketchnote Activity](act-2.html){: .btn .btn-blue }
+[NEXT STEP: Sketchnote Activity](act-2-sketchnote.html){: .btn .btn-blue }
