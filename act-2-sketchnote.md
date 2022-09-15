@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2-Sketchnote Lectures
+title: 2-Sketchnote Readings
 nav_order: 3
 parent: Workshop Activities
 ---
