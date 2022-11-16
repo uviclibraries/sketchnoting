@@ -3,6 +3,7 @@ layout: default
 title: 1-Skills Building
 nav_order: 2
 parent: Workshop Activities
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
 <img src="images/act-1/logo.png" alt="logo" style="float:right;width:360px;">
@@ -25,9 +26,15 @@ In this exercise, you will work on developing the basic skills, techniques, and 
     
     -   Note: Google image search is a great place to look for inspiration when you’re drawing something new. For example, Google, “brain drawing”, and then click on the images tab.
     
-    <img src="images/act-1/drawing.gif" alt="drawing animated" style="width:720px;">
     
-    <img src="images/act-1/drawings5.png" alt="people drawings" style="float:right;height:200px;margin-left:10px;">
+<button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1">
+  <img src="images/act-1/drawing.gif" alt="drawing animated" style="width:720px;">
+</div>
+
+  
+    
+ <img src="images/act-1/drawings5.png" alt="people drawings" style="float:right;height:200px;margin-left:10px;">
     <img src="images/act-1/drawings4.png" alt="crowd drawings" style="float:right;height:200px;margin-left:10px;">
     
 2.  Practice drawing people (stick people).
@@ -60,5 +67,18 @@ In this exercise, you will work on developing the basic skills, techniques, and 
     -   Draw a metaphor for balance. Practice three times.
     
     <img src="images/act-1/drawings6.png" alt="drawings" style="width:240px;">
+
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Sketchnote Activity](act-2-sketchnote.html){: .btn .btn-blue }
