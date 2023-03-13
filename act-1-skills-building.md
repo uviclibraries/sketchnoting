@@ -37,7 +37,7 @@ In this exercise, you will work on developing the basic skills, techniques, and 
 <img src="images/act-1/drawings4.png" alt="crowd drawings" style="float:right;height:200px;margin-left:10px;">
     
 2.  Practice drawing people (stick people).
-    -   On a clean sheet of paper draw each of the following 5 times: Man standing, Woman standing, A crowd of people.
+    -   On a clean sheet of paper draw A crowd of people 2 or 3 times.
     -   Again, Google image search is a great place to look for inspiration when drawing your stick figures, especially if you are depicting them doing something active.
 
     <img src="images/act-1/drawings-title.png" alt="titles" style="float:right;width:360px;margin-left:10px;">
