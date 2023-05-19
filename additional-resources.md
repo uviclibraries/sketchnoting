@@ -11,7 +11,7 @@ nav_order: 10
 - [LernOS Sketchnoging Guide](https://cogneon.github.io/lernos-sketchnoting/en/0300_Introduction/){:target="_blank"} - A full online course
 
 ## Sketchnoting Resources For Instructors
-- [Sketchnoting: An Effective & Fun End-of-Semester Review Activity?]([https://www.verbaltovisual.com/sketchnoting/](https://richmccue.com/2023/05/19/sketchnoting-an-effective-fun-end-of-semester-review-activity/)){:target="_blank"} by Rich McCue
+- [Sketchnoting: An Effective & Fun End-of-Semester Review Activity?](https://richmccue.com/2023/05/19/sketchnoting-an-effective-fun-end-of-semester-review-activity/){:target="_blank"} by Rich McCue
 
 ## Acknowledgements
 
