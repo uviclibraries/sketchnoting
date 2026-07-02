@@ -1,5 +1,5 @@
 title: Sketchnoting
-remote_theme: pmarsceill/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_repository: "https://github.com/uviclibraries/sketchnoting" # the github URL for your repo 
@@ -19,6 +19,22 @@ aux_links:
     - "//lib.uvic.ca/dsc"
 
 aux_links_new_tab: true
+
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
 
 # Footer Information
 # Back to top link
@@ -40,4 +56,6 @@ ga_tracking: G-J1P4V8MFWB
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-include-cache
